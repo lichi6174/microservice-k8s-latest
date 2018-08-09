@@ -19,4 +19,4 @@
 
 
 # 项目的服务依赖说明
-- 整个项目用到了独立的MySQL,Redis,Zookeeper服务，请按项目要求自行搭建这几个服务，注意各个服务的监听端口设定；
+- 整个项目用到了独立的MySQL,Redis,Zookeeper服务，请按项目要求自行搭建这几个服务，注意各个服务的监听端口设定；# microservice-k8s-latest
